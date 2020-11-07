@@ -7,9 +7,7 @@
 
 ### 代码
 
-
-​```java
-
+```java
 class Solution {
     public int[] plusOne(int[] digits) {
 
@@ -30,6 +28,4 @@ class Solution {
         return disgits;
     }
 }
-
 ```
-
